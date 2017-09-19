@@ -17,12 +17,6 @@ C code for feedback voltage control of laser diode output with a microcomputer, 
 4. Connect your Nucleo and PC with an USB cable.
 3. Compile and download your code in uVision 5.
 
-## Help
-Use the help function as below.
-```
-help yfNiDaqAoBContDoConst
-```
-
 ## DOI
 
 ## Versioning
