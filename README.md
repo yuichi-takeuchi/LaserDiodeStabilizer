@@ -1,10 +1,10 @@
 # LaserDiodeStabilizer
-C code for feedback voltage control of laser diode output with a microcomputer, Nucleo-L152RE. Two AD channels of the microcomputer recieves command and feedback voltages and positive and negative correction voltages are delivered via two DA channels. Practical circuit information is available here (https://figshare.com/s/19bdeec11220eea3514f).
+C++ code for feedback voltage control of laser diode outputs with a microcomputer, STM32L152RE. Two AD channels of it recieve command and feedback voltages, and positive and negative correction voltages are the delivered via two DA channels. Information of a practical circuit  is available here (https://figshare.com/s/19bdeec11220eea3514f).
 
 ## Getting Started
 
 ### Prerequisites
-* Microcomputer Nucleo-L152RE (http://www.st.com/en/microcontrollers/stm32l152re.html)
+* Microcomputer STM32L152RE (http://www.st.com/en/microcontrollers/stm32l152re.html)
 
 ### How to use
 * Online compile and downlowad
