@@ -18,6 +18,7 @@ C++ code for feedback voltage control of laser diode outputs with a microcompute
 3. Compile and download your code in uVision 5.
 
 ## DOI
+[![DOI](https://zenodo.org/badge/104104021.svg)](https://zenodo.org/badge/latestdoi/104104021)
 
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning.
