@@ -30,7 +30,6 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Authors
 * **Yuichi Takeuchi PhD** - *Initial work* - [GitHub](https://github.com/yuichi-takeuchi)
 * Affiliation: Department of Physiology, University of Szeged, Hungary
-* E-mail: takeuchi.yuichi@med.u-szeged.hu
 
 ## License
 This project is licensed under the MIT License.
@@ -40,3 +39,5 @@ This project is licensed under the MIT License.
 * Department of Physiology, University of Szeged, Hungary
 
 
+## References
+- Takeuchi Y, Harangozó M, Pedraza L, Földi T, Kozák G, Li Q, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. Brain, awaa450. 27 Jan 2021. DOI: https://doi.org/10.1093/brain/awaa450
